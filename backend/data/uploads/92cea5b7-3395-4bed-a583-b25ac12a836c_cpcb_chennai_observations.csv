@@ -1,0 +1,3 @@
+timestamp,station,city,state,latitude,longitude,PM2.5,PM10,NO2,CO,SO2,O3,NH3,source
+24-10-2026 16:00:00,"Arumbakkam, Chennai - CPCB",Chennai,Tamil Nadu,13.0664,80.2112,25.0,60.0,18.0,,,,,CPCB CAAQMS (data.gov.in)
+24-10-2026 16:00:00,"Perungudi, Chennai - TNPCB",Chennai,Tamil Nadu,12.9533,80.2357,22.0,,,0.8,5.0,,,CPCB CAAQMS (data.gov.in)

@@ -1,0 +1,8 @@
+timestamp,station,city,state,latitude,longitude,PM2.5,PM10,NO2,CO,SO2,O3,NH3,source
+31-10-2026 11:00:00,"Perungudi, Chennai - TNPCB",Chennai,Tamil Nadu,12.9533,80.2357,67.0,,14.0,30.0,2.0,18.0,4.0,CPCB CAAQMS (data.gov.in)
+31-10-2026 11:00:00,"Manali, Chennai - CPCB",Chennai,Tamil Nadu,13.164544,80.26285,57.0,108.0,9.0,44.0,6.0,9.0,6.0,CPCB CAAQMS (data.gov.in)
+31-10-2026 11:00:00,"Arumbakkam, Chennai - TNPCB",Chennai,Tamil Nadu,13.0664,80.2112,78.0,117.0,18.0,,1.0,,1.0,CPCB CAAQMS (data.gov.in)
+31-10-2026 11:00:00,"Royapuram, Chennai - TNPCB",Chennai,Tamil Nadu,13.1036,80.2909,66.0,65.0,14.0,31.0,2.0,30.0,4.0,CPCB CAAQMS (data.gov.in)
+31-10-2026 11:00:00,"Velachery Res. Area, Chennai - CPCB",Chennai,Tamil Nadu,13.0052189,80.2398125,,,,15.0,,11.0,,CPCB CAAQMS (data.gov.in)
+31-10-2026 11:00:00,"Manali Village, Chennai - TNPCB",Chennai,Tamil Nadu,13.1662,80.2584,58.0,75.0,9.0,47.0,13.0,249.0,2.0,CPCB CAAQMS (data.gov.in)
+31-10-2026 11:00:00,"Kodungaiyur, Chennai - TNPCB",Chennai,Tamil Nadu,13.1278,80.2642,81.0,95.0,14.0,54.0,6.0,31.0,2.0,CPCB CAAQMS (data.gov.in)
